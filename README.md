@@ -16,14 +16,14 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - What is a Traditional Build and Deployment workflow
 - What is a Waterfall model in SDLC
 - Problems with the traditional software development life cycle (SDLC)
-- What is Agile, and how it solves the above challenges 
+- What is Agile, and how it solve the above challenges 
 - What is DevOps and Why It Matters
 - What is CI/CD
 - What is Azure DevOps and a quick walkthrough
 - Creating an Azure DevOps Organization
 - Creating an Azure DevOps Project
 - Azure DevOps Pricing
-- Azure DevOps hosting options : Azure DevOps Services VS Azure DevOps Server
+- Azure DevOps hosting options: Azure DevOps Services VS Azure DevOps Server
 
 ### Day 2: Azure Boards and Agile Project Management 📊
 **Status**: Video is live, check out 👉 [Day2](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day2) 👈 folder for notes and useful links ✅
@@ -164,7 +164,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
   
 ### Day 12  Security and Permissions in Azure DevOps 🔐
-**Status**: Video is live, check out 👉 [Day12](https://youtu.be/G6Fv4B0UQTY) 👈
+**Status**: Video is live, check out 👉 [Day12](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day12) 👈 folder for notes and useful links ✅
 
 - Enabling advanced security in Azure DevOps
 - Dependency Scanning
@@ -173,34 +173,47 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Code scanning for vulnerabilities
 - Sample Application: My Health Care - Microservices-based Healthcare management app
 
-### Day 13: Azure DevOps wiki 
-
-- Overview of wiki
-- Introduction to MarkDown
-- How we can use Azure DevOps wiki to collaborate on a project
-
-  
-### Day 14: Serverless app CICD 🐳
-**Status**: Recording in progress
+### Day 13: Serverless app CICD 🐳
+**Status**: Video is live, check out 👉 [Day13](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day13) 👈 folder for notes and useful links ✅
 
 - Introduction to Azure functions
+- Use case and benefits of an Azure function
+- Introduction to the sample app to be used for this demo: Serverless QR Code Generator
+- Demo creating the Azure function and deploying locally
+- Publishing the function to Azure using CLI tools
 - Build and release pipeline for building and deploying the code to Azure Functions
-- Sample Application: Serverless QR Code Generator
+
+  
+### Day 14: Azure DevOps wiki
+**Status**: Video is live, check out 👉 [Day14](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day14) 👈 folder for notes and useful links ✅
+
+- Overview of wiki
+- Creating and editing a project Wiki
+- Publishing code as Wiki
+- How we can use Azure DevOps wiki to collaborate on a project
 
 
-### Day 15: Creating Architectural diagrams
+### Day 15: Azure DevOps Security best practices 🚢
+**Status**: Video is live, check out 👉 [Day15](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day15) 👈 folder for notes and useful links ✅
 
-- Importance of documentation
-- How to create effective architectural diagrams using multiple tools
-- How to create animated architectural diagrams for blogs/social media
+- Azure DevOps Access Control
+- Organization Settings
+- Agent pools Management
+- Pipeline settings
+- Project-level Settings
+- Pipeline security
+- Repo settings
+- Authentication and Authorization
+- Secrets and credentials access
 
-### Day 16: Advanced CI/CD Pipelines and Deployment Strategies 🚢
 
-- Building Multi-Stage CI/CD Pipelines
-- Implementing Canary deployment using Azure DevOps
-- Sample application: To be decided
-
-
+### Day 16: Issue and troubleshooting Azure DevOps
+- In this video, we will discuss the most common issues you have faced throughout the series and solutions to those.
+**Status**: Video is live, check out 👉 [Day16](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day16) 👈 folder for notes and useful links ✅
+  
+### Day 17: Bonus Video: Azure DevOps Scenario-based Interview Questions
+- In this video, we will discuss the most asked scenario-based interview questions and answers for Azure DevOps
+**Status**: Video is live, check out 👉 [InterviewQuestions](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/InterviewQuestions) 👈 folder for notes and useful links ✅
 
 ### Contributions are welcome:
 You can raise the pull request to contribute to the course material; please remember to star the repository.
